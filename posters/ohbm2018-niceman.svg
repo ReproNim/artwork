@@ -1262,9 +1262,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="435.09739"
-     inkscape:cy="215.62416"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1135.1801"
+     inkscape:cy="3705.9588"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1353,7 +1353,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1364,7 +1364,7 @@
      transform="translate(0,892)">
     <g
        id="g4759"
-       transform="translate(0,-11.1125)"
+       transform="translate(32.279167,-11.1125)"
        style="stroke:#900000;stroke-opacity:0">
       <rect
          y="146.19243"
@@ -1400,43 +1400,43 @@
            x="1955.3759"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.45447826px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#900000;stroke-width:0.76882732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.76882732px;stroke:#900000;stroke-opacity:0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke:#900000;stroke-width:0.76882732px;stroke-opacity:0"
              y="1554.1881"
              x="1955.3759"
              id="tspan3876"
              sodipodi:role="line">Debian package ants amd64:                       </tspan><tspan
              id="tspan3880"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.76882732px;stroke:#900000;stroke-opacity:0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke:#900000;stroke-width:0.76882732px;stroke-opacity:0"
              y="1571.0062"
              x="1955.3759"
              sodipodi:role="line">&lt; 2.2.0-1+b2</tspan><tspan
              id="tspan3882"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.76882732px;stroke:#900000;stroke-opacity:0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke:#900000;stroke-width:0.76882732px;stroke-opacity:0"
              y="1587.8243"
              x="1955.3759"
              sodipodi:role="line">---</tspan><tspan
              id="tspan3884"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.76882732px;stroke:#900000;stroke-opacity:0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke:#900000;stroke-width:0.76882732px;stroke-opacity:0"
              y="1604.6425"
              x="1955.3759"
              sodipodi:role="line">&gt; 2.1.0+git715-ge56f961-1~nd90+1</tspan><tspan
              id="tspan3886"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.76882732px;stroke:#900000;stroke-opacity:0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke:#900000;stroke-width:0.76882732px;stroke-opacity:0"
              y="1621.4604"
              x="1955.3759"
              sodipodi:role="line">Git repository 8a6d1c60e7fdf41943360f5ae0c8df0ce682c677:</tspan><tspan
              id="tspan3888"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.76882732px;stroke:#900000;stroke-opacity:0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke:#900000;stroke-width:0.76882732px;stroke-opacity:0"
              y="1638.2786"
              x="1955.3759"
              sodipodi:role="line">&lt; 1048cd93e98045712314733d7b0fe1920b06c87a (/tmp/datalad)</tspan><tspan
              id="tspan3890"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.76882732px;stroke:#900000;stroke-opacity:0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke:#900000;stroke-width:0.76882732px;stroke-opacity:0"
              y="1655.0967"
              x="1955.3759"
              sodipodi:role="line">---</tspan><tspan
              id="tspan3892"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.76882732px;stroke:#900000;stroke-opacity:0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke:#900000;stroke-width:0.76882732px;stroke-opacity:0"
              y="1671.9148"
              x="1955.3759"
              sodipodi:role="line">&gt; cf469067f3416ab9559060d68d386ddaa8a67590 (/tmp/datalad)</tspan></text>
@@ -1445,14 +1445,14 @@
     <rect
        ry="0"
        y="-678.00378"
-       x="411.58984"
+       x="443.86887"
        height="764.72711"
        width="344.09772"
        id="rect4718"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <rect
        y="-30.024967"
-       x="418.57083"
+       x="450.84985"
        height="113.72223"
        width="333.38388"
        id="rect4714"
@@ -1463,12 +1463,12 @@
        id="rect4712"
        width="333.37497"
        height="129.11668"
-       x="418.57083"
+       x="450.84985"
        y="-135.32913"
        ry="10.583333" />
     <rect
        y="-271.85413"
-       x="418.57083"
+       x="450.84985"
        height="183.09167"
        width="333.37497"
        id="rect4710"
@@ -1479,7 +1479,7 @@
        id="rect3903"
        width="334.4975"
        height="397.34052"
-       x="418.57083"
+       x="450.84985"
        y="-627.91907"
        ry="9.5249996" />
     <g
@@ -2364,19 +2364,19 @@
        width="145.10573" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888889px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="46.908409"
-       y="-699.92139"
+       y="-700.16974"
        id="text5065"><tspan
          sodipodi:role="line"
          id="tspan5063"
          x="46.908409"
-         y="-699.92139"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888889px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Bold';stroke-width:0.26458332px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Introduction</tspan></text>
+         y="-700.16974"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">Introduction</tspan></text>
     <g
        id="g3398"
        font-size="14px"
-       transform="matrix(0.39422085,0,0,0.39422085,425.63322,-658.13676)"
+       transform="matrix(0.39422085,0,0,0.39422085,457.91238,-658.13676)"
        style="font-size:14px;font-family:monospace">
       <text
          id="text3154"
@@ -2930,17 +2930,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="407.2709"
+       x="439.54993"
        y="-681.96088"
        id="text3534"><tspan
          sodipodi:role="line"
          id="tspan3532"
-         x="407.2709"
+         x="439.54993"
          y="-681.96088"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777778px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">Output from running </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">Output from running </tspan><tspan
          sodipodi:role="line"
-         x="407.2709"
-         y="-667.11664"
+         x="439.54993"
+         y="-667.84979"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          id="tspan3540"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
@@ -2948,86 +2948,86 @@
     <text
        id="text3588"
        y="130.13232"
-       x="407.2709"
+       x="439.54993"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="130.13232"
-         x="407.2709"
+         x="439.54993"
          id="tspan3580"
          sodipodi:role="line">Output from running </tspan><tspan
          id="tspan3586"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:monospace;-inkscape-font-specification:monospace;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="144.24344"
-         x="407.2709"
+         x="439.54993"
          sodipodi:role="line">  % niceman diff spec1.yaml spec2.yaml</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="159.08766"
-         x="407.2709"
+         x="439.54993"
          sodipodi:role="line"
          id="tspan3894" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="173.19878"
-         x="407.2709"
+         x="439.54993"
          sodipodi:role="line"
          id="tspan4733" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="187.30989"
-         x="407.2709"
+         x="439.54993"
          sodipodi:role="line"
          id="tspan4735" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="201.42099"
-         x="407.2709"
+         x="439.54993"
          sodipodi:role="line"
          id="tspan4737" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="215.5321"
-         x="407.2709"
+         x="439.54993"
          sodipodi:role="line"
          id="tspan4739" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="229.64322"
-         x="407.2709"
+         x="439.54993"
          sodipodi:role="line"
          id="tspan4741" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="243.84447"
-         x="407.2709"
+         x="439.54993"
          sodipodi:role="line"
          id="tspan4743">where ANTs was downgraded and the state of the Git repository changed</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="257.95557"
-         x="407.2709"
+         x="439.54993"
          sodipodi:role="line"
          id="tspan3616" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="407.2709"
+       x="439.54993"
        y="-699.92139"
        id="text3592"><tspan
          sodipodi:role="line"
          id="tspan3590"
-         x="407.2709"
+         x="439.54993"
          y="-699.92139"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">Sample Specification</tspan></text>
     <text
        id="text3614"
        y="112.04341"
-       x="407.2709"
+       x="439.54993"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="112.04341"
-         x="407.2709"
+         x="439.54993"
          id="tspan3612"
          sodipodi:role="line">Difference between two specifications</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4786"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,6.5995481,-912.20561)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,6.5995481,-911.14638)"><flowRegion
          id="flowRegion4788"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
            id="rect4790"
@@ -3121,7 +3121,9 @@
            id="flowPara4991"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><flowPara
            id="flowPara4973"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">• Debian GNU/Linux distributions, with support for http://snapshots.debian.org and    coming NeuroDebian snapshots during &quot;reconstruction&quot;</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">• Debian GNU/Linux distributions, with support for http://snapshots.debian.org</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="flowPara681">   and coming NeuroDebian snapshots during &quot;reconstruction&quot;</flowPara><flowPara
            id="flowPara4975"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">• Conda distribution</flowPara><flowPara
            id="flowPara4977"
@@ -3336,8 +3338,8 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
                y="831.04517"
                x="155.56349"
-               height="636.15637"
-               width="1361.5028"
+               height="588.07312"
+               width="1358.6743"
                id="rect5499" /></flowRegion><flowPara
              id="flowPara5507"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">• NeuroDebian (<flowSpan
@@ -3362,13 +3364,15 @@
              id="flowPara5561"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">• ReproZip (<flowSpan
    id="flowSpan5557"
-   style="fill:#000080">https://www.reprozip.org</flowSpan>) to create minimized packs of your computing environments.  Used by NICEMAN for tracing of execution.</flowPara><flowPara
+   style="fill:#000080">https://www.reprozip.org</flowSpan>) to create minimized packs of your computing</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="flowPara683">   environments.  Used by NICEMAN for tracing of execution.</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
              id="flowPara5513">• NeuroDocker (<flowSpan
    id="flowSpan5572"
    style="fill:#000080">https://github.com/kaczmarj/neurodocker</flowSpan>) to quickly create Docker</flowPara><flowPara
              id="flowPara5574"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">    and Singularity recipes for your environments.</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">   and Singularity recipes for your environments.</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
              id="flowPara5515">                                                      Visit ReproIn poster 2030 for more details</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
