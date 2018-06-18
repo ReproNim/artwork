@@ -1262,9 +1262,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1135.1801"
-     inkscape:cy="3705.9588"
+     inkscape:zoom="1"
+     inkscape:cx="597.02001"
+     inkscape:cy="252.56505"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1353,7 +1353,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2178,27 +2178,6 @@
          x="192.41232"
          y="-673.21692"
          style="stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" /></text>
-    <g
-       id="g22168"
-       transform="matrix(0.18780796,0,0,0.46067594,28.989222,566.76352)"
-       style="stroke-width:2.17072344;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-      <g
-         id="g22162"
-         transform="matrix(0.26458333,0,0,0.26458333,408.25659,-647.6401)"
-         style="stroke-width:2.17072344;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.17072344;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
-           x="-1289.0007"
-           y="-122.54199"
-           id="text22160"><tspan
-             sodipodi:role="line"
-             id="tspan22158"
-             x="-1289.0007"
-             y="-122.54199"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.17072344;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000">Acknowledgements</tspan></text>
-      </g>
-    </g>
     <g
        style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
        id="g37952"
