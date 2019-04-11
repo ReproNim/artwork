@@ -1,0 +1,28 @@
+# Split decoding figure into pieces
+
+%file niceman-run-101.svg
+# %options previews
+
+# Disable ALL layers
+layers style=display:none
+
+layer label=base style=display:inline
+%save 0-base
+
+layer label=install style=display:inline
+%save 1-install
+
+layer label=install style=display:none
+layer label=EC2 style=display:inline
+%save 2-ec2
+
+layer label=ec2-run style=display:inline
+%save 3-ec2-run
+
+layer label=ec2-run style=display:none
+layer label=ec2-fetch style=display:inline
+%save 4-ec2-fetch
+
+layer label=ec2-fetch style=display:none
+layer label=ec2-run-record style=display:inline
+%save 4-ec2-run-record
