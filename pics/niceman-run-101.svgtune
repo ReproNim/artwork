@@ -1,7 +1,7 @@
 # Split decoding figure into pieces
 
 %file niceman-run-101.svg
-# %options previews
+%options previews
 
 # Disable ALL layers
 layers style=display:none
