@@ -7,6 +7,9 @@ Posters and Talks. All of this material is in the public domain.
 ## Logos
 Logos are found [here](logo)
 
+Here is an example ReproNim logo.
+![ReproNim Logo](logo/logo-512.png)
+
 ## Pictures
 Pictures are found [here](pics)
 
