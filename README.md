@@ -7,11 +7,14 @@ Posters and Talks. All of this material is in the public domain.
 ## Logos
 Logos are found [here](logo)
 
-Here is an example ReproNim logo.
+Here is an example ReproNim logo:
 ![ReproNim Logo](logo/logo-512.png)
 
 ## Pictures
 Pictures are found [here](pics)
+
+Here is an example ***ReproMan Run*** picture:
+![ReproMan Run](pics/reproman-run-101.svg)
 
 ## Talks
 Talks are found [here](talks)
@@ -19,4 +22,8 @@ Talks are found [here](talks)
 ## Posters
 Posters are found [here](posters)
 
-Want something else, just let us know (file an issue, or email info@repronim.org)!
+Here is an example poster (OHBM-2019 Containers):
+[Containers Poster](posters/ohbm2019-containers.pdf)
+
+# Want something else?
+Just let us know (file an issue, or email info@repronim.org)!
