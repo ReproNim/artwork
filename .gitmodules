@@ -2,3 +2,8 @@
 	path = talks/webinar-2020-reprocomp
 	url = https://github.com/ReproNim/webinar-2020-reprocomp.git
 	datalad-id = 5db11bd6-8755-11e9-8596-f0d5bf7b5561
+[submodule "talks/workshop-2026-llm-kg"]
+	path = talks/workshop-2026-llm-kg
+	url = https://github.com/ReproNim/llm-workshop-kg
+	datalad-id = ac6d69f8-1e00-4161-9f88-c8cc5a4964ec
+	datalad-url = https://github.com/ReproNim/llm-workshop-kg
